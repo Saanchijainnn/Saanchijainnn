@@ -4,9 +4,13 @@
 
 I enjoy building AI-powered applications, modern web experiences, and turning ideas into real-world software.
 
+<div align="center">
+
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-VISIT-black?style=for-the-badge)](YOUR_PORTFOLIO_LINK)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saanchijainnn)
+
+</div>
 
 ---
 
@@ -163,9 +167,13 @@ Focused on strengthening my skills in AI/ML and software development while build
 
 ## 🤝 Let's Connect
 
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-VISIT-black?style=for-the-badge)](YOUR_PORTFOLIO_LINK)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-black?style=for-the-badge)](YOUR_PORTFOLIO_LINK)
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saanchijainnn)
+
+</div>
 
 ---
 
