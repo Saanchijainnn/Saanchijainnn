@@ -1,4 +1,5 @@
-# Hi 👋, I'm Saanchi Jain
+<div align="center">
+  # Hi 👋, I'm Saanchi Jain
 
 ### 🤖 AI/ML • Full-Stack Developer • Student • Builder
 
